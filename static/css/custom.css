@@ -1,0 +1,278 @@
+.slider_img_01 {
+background: url(../image/slider/manage_b3.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+
+.slider_img_02 {
+  background: url(../image/slider/manage_b2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.slider_img_03 {
+  background: url(../image/slider/manage_b.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.rs-breadcrumbs.career_bg {
+  background: url(../image/slider/career_bg.jpg);
+  background-position: center top;
+}
+.about_bg{
+	background: url(../image/slider/about_bg.jpg);
+	background-position: center top;
+}
+
+
+.img_logo{
+	width: 100px;
+}
+.rs-process .process-wrap {
+background: var(--primary-color);
+width: 100%;
+height: 500px;
+padding-top: 100px;
+padding-left: 10%;
+padding-right: 10%;
+border-radius: 10px;
+}
+
+.rs-project.style1{
+background: var(--primary-color);
+padding-bottom: 100px;
+}
+
+.textwidget p{
+color: var(--black-color);
+}
+
+.address-widget {
+     color: var(--footerlink-color);
+}
+
+.address-widget li{
+     color: var(--footerlink-color);
+}
+
+.address-widget li i{
+     color: var(--footerlink-color);
+}
+.address-widget  i{
+     color: var(--footerlink-color);
+}
+.widget-{
+  color: var(--footerlink-color);  
+}
+.textwidget p{
+    color: var(--footerlink-color);  
+}
+
+.icon-1 i{
+ color: var(--footerlink-color);     
+}
+
+.quote i{
+     font-size: 50px;
+     color: var(--secondary-color);;
+}
+
+.image-wrap img{
+     width: 100%;
+     height: 250px;
+}
+
+
+.descblog{
+     height: 60px;
+     font-size: 14px;
+  }
+
+  .margin-bottom-30{
+     margin-bottom: 20%;
+  }
+
+
+/*================================================
+Coming Soon Area CSS
+=================================================*/
+.coming-soon-area {
+     width: 80%;
+  height: 100vh;
+  
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+}
+
+.coming-soon-content {
+  max-width: 100%;
+  background: #ffffff;
+  border-radius: 10px;
+  overflow: hidden;
+  text-align: center;
+  padding: 45px 30px;
+  -webkit-box-shadow: 0px 15px 50px rgba(0, 13, 81, 0.1);
+          box-shadow: 0px 15px 50px rgba(0, 13, 81, 0.1);
+  margin: auto;
+}
+
+.coming-soon-content h1 {
+  font-size: 45px;
+  margin-bottom: 30px;
+}
+
+.coming-soon-content h1 a {
+  color: #201c2d;
+}
+
+.coming-soon-content h1 a:hover {
+  color: #FE0004;
+}
+
+.coming-soon-content h2 {
+  font-size: 30px;
+  margin-bottom: 0;
+}
+
+.coming-soon-content #timer {
+  margin-top: 45px;
+}
+
+.coming-soon-content #timer div {
+  background-color: #FE0004;
+  color: #ffffff;
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  font-size: 40px;
+  font-weight: bold;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.coming-soon-content #timer div span {
+  display: block;
+  margin-top: -2px;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.coming-soon-content .newsletter-form {
+  margin-top: 45px;
+  background-color: #ffffff;
+  -webkit-box-shadow: 0px 15px 50px rgba(0, 13, 81, 0.1);
+          box-shadow: 0px 15px 50px rgba(0, 13, 81, 0.1);
+  padding: 30px;
+}
+
+.coming-soon-content .newsletter-form .form-group {
+  margin-bottom: 15px;
+  width: 100%;
+}
+
+.coming-soon-content .newsletter-form .form-group .input-newsletter {
+  border: none;
+  border: 1px solid #eeeeee;
+  background-color: #eee;
+  padding: 20px;
+  color: #ffffff;
+  height: 60px;
+  display: block;
+  width: 100%;
+  -webkit-transition: 0.6s;
+  transition: 0.6s;
+  font-size: 15px;
+  font-weight: 500;
+  border-radius: 15px;
+}
+
+.coming-soon-content .newsletter-form .form-group .input-newsletter::-webkit-input-placeholder {
+  color: #62606c;
+  -webkit-transition: 0.6s;
+  transition: 0.6s;
+}
+
+.coming-soon-content .newsletter-form .form-group .input-newsletter:-ms-input-placeholder {
+  color: #62606c;
+  -webkit-transition: 0.6s;
+  transition: 0.6s;
+}
+
+.coming-soon-content .newsletter-form .form-group .input-newsletter::-ms-input-placeholder {
+  color: #62606c;
+  -webkit-transition: 0.6s;
+  transition: 0.6s;
+}
+
+.coming-soon-content .newsletter-form .form-group .input-newsletter::placeholder {
+  color: #f3f1f8;
+  -webkit-transition: 0.6s;
+  transition: 0.6s;
+}
+
+.coming-soon-content .newsletter-form .form-group .input-newsletter:focus {
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  outline: 0;
+  background-color: transparent;
+  border: 1px solid #FE0004;
+}
+
+.coming-soon-content .newsletter-form .form-group .input-newsletter:focus::-webkit-input-placeholder {
+  color: transparent;
+}
+
+.coming-soon-content .newsletter-form .form-group .input-newsletter:focus:-ms-input-placeholder {
+  color: transparent;
+}
+
+.coming-soon-content .newsletter-form .form-group .input-newsletter:focus::-ms-input-placeholder {
+  color: transparent;
+}
+
+.coming-soon-content .newsletter-form .form-group .input-newsletter:focus::placeholder {
+  color: transparent;
+}
+
+.coming-soon-content .newsletter-form .default-btn {
+  width: 100%;
+  border: none;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.coming-soon-content .newsletter-form .validation-danger {
+  margin-top: 15px;
+  color: red;
+}
+
+.project-img img{
+  width: 100%;
+  height: 250px;
+}
+.project-content h3{
+	height: 40px;
+}
+.project-content h3 .title{
+	font-size: 15px;
+}
+
+.partner-item .logo-img img{
+	width: 150px;
+	height: 50px;
+}
+
+.team-item img{
+	width: 100%;
+	height: 250px;
+}
+.m-auto{
+  margin: auto;
+}
